@@ -1,7 +1,5 @@
----
-title: "Unemployment Map"
-output: html_document
----
+Unemployment Map
+========================
 
 
 Animated map to show unemployment percentage for US counties by year from 1990 to 2017.
